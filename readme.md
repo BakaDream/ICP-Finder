@@ -40,7 +40,7 @@ cd icp-finder_0.1.0_linux_amd64
 1. 克隆本项目到本地计算机。
 
 ```bash
-git clone https://github.com/your-username/icp-finder.git
+git clone https://github.com/mengdiao/ICP-Finder.git
 ```
 
 2. 进入项目目录，并运行 main.go 文件以启动服务器。
